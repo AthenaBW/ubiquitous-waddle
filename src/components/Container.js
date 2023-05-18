@@ -20,7 +20,7 @@ export default function Container() {
         {currentPage === 'AboutMe' && <AboutMe />}
         {currentPage === 'Portfolio' && <Portfolio />}
         {currentPage === 'Contact' && <Contact />}
-        {currentPage !== 'About' && currentPage !== 'Portfolio' && currentPage !== 'Contact' && <Resume />}
+        {currentPage === 'Resume' && <Resume />} 
         <Footer currentPage={currentPage} handlePageChange={handlePageChange} />
       </div>
     );
