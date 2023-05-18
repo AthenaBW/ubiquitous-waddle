@@ -1,0 +1,14 @@
+.card {
+    margin: 0.5rem;
+  }
+  
+  img {
+    opacity: 0.85;
+    transition: opacity 0.3s ease;
+  }
+  
+  img:hover {
+    cursor: pointer;
+    opacity: 1;
+  }
+  
