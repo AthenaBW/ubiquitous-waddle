@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../style/header.module.css";
+import styles from "../style/header.css";
 
 function Header({ currentPage, handlePageChange }) {
   return (
