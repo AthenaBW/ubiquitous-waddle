@@ -38,7 +38,7 @@ export default function Resume() {
         <div>
             <SectionHeading>Summary</SectionHeading>
             <p>
-                SUMMARY
+
 
                 Results-driven professional with a strong background in retail and a newfound passion for Full Stack Web Development.
                 Committed to leveraging my exceptional customer service skills and combining them with my technical expertise to create dynamic
