@@ -1,6 +1,6 @@
 {
   "name": "portfolio-app",
-  "homepage": "https://athenabw.github.io/ubiquitous-waddle/",
+  "homepage":"git@github.com:AthenaBW/ubiquitous-waddle.git/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
