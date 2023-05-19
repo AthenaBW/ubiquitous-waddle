@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ubiquitous-waddle.git/static/css/main.d8ca7d0d.css",
+    "main.js": "/ubiquitous-waddle.git/static/js/main.1cde1e6a.js",
+    "static/media/portfolio.png": "/ubiquitous-waddle.git/static/media/portfolio.795d2e640c4450dfc8b0.png",
+    "static/media/svg.png": "/ubiquitous-waddle.git/static/media/svg.edd9e4f318428a817466.png",
+    "static/media/prework.png": "/ubiquitous-waddle.git/static/media/prework.2987b15475817c12b3f8.png",
+    "static/media/res.pdf": "/ubiquitous-waddle.git/static/media/res.ce537c85a84563be9a14.pdf",
+    "static/media/coding.png": "/ubiquitous-waddle.git/static/media/coding.1b9cdb3c77460aa94ceb.png",
+    "static/media/work.png": "/ubiquitous-waddle.git/static/media/work.42181029eea83804c32b.png",
+    "static/media/password.png": "/ubiquitous-waddle.git/static/media/password.88c8b3365f5b4fcf0633.png",
+    "static/media/mp3.png": "/ubiquitous-waddle.git/static/media/mp3.b59cabd691f25a479893.png",
+    "static/media/github.png": "/ubiquitous-waddle.git/static/media/github.3b80acbf902bb0f7d476.png",
+    "static/media/avatar.jpg": "/ubiquitous-waddle.git/static/media/avatar.996e13435ba7543ece4d.jpg",
+    "static/media/linkedin.png": "/ubiquitous-waddle.git/static/media/linkedin.367e73f523d32c24d9df.png",
+    "static/media/fb.png": "/ubiquitous-waddle.git/static/media/fb.6d50ce637996d64e03e5.png",
+    "index.html": "/ubiquitous-waddle.git/index.html",
+    "main.d8ca7d0d.css.map": "/ubiquitous-waddle.git/static/css/main.d8ca7d0d.css.map",
+    "main.1cde1e6a.js.map": "/ubiquitous-waddle.git/static/js/main.1cde1e6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8ca7d0d.css",
+    "static/js/main.1cde1e6a.js"
+  ]
+}
