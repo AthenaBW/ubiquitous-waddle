@@ -1,6 +1,6 @@
-{
+{ 
+  "homepage": "https://AthenaBW.github.io/ubiquitous-waddle",
   "name": "portfolio-app",
-  "homepage":"https://AthenaBW.github.io/ubiquitous-waddle.git/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build ",
+    "build": "react-scripts build && cp build/index.html build/404.htm",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
