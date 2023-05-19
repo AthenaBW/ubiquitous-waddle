@@ -3,14 +3,11 @@ import pics1 from '../pics/avatar.jpg';
 
 const styles = {
     selfie: {
-      display: 'block',
-      margin: '0 auto', 
-      maxHeight: '100px',
-      maxWidth: '100px',
-      borderRadius: '25%',
-      border: '3px solid',
-      filter: 'opacity(100%)',
-      cursor: 'default',
+      maxWidth: "100%",
+    width: "400px", 
+    height: "auto",
+    display: "block",
+    margin: "0 auto",
     },
     h2: {
       textAlign: 'center',
@@ -27,7 +24,7 @@ export default function AboutMe() {
     <div style={styles.space}>
       <h2 style={styles.h2}>About Me</h2>
       <div>
-        <img style={styles.selfie} src={pics1} alt="selfie" />
+        <img style={styles.selfie} src={pics1} alt="selfie"  />
       </div>
       <p>
         As a full-stack web developer, I made the exciting transition from the retail industry to pursue my passion for web development.

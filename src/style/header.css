@@ -1,13 +1,12 @@
-.nav-link {
-    display: inline-block;
-    margin: 0 0.5rem;
-    padding: 0.5rem;
-    text-decoration: none;
-    color: #333333;
-    transition: color 0.3s ease;
-  }
+a.nav-link {
+  padding-top: 0px;
+  padding-bottom: 50px;
+  padding-left: 0px;
+  padding-right: 0px;
+};
   
   .nav-link:hover {
     color: #000000;
   }
+ 
   
