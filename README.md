@@ -1,4 +1,4 @@
-# NoSQL Challenge: Social Network API
+# React Portfolio
 
 ## Description
 
