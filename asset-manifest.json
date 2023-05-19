@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ubiquitous-waddle/static/css/main.d8ca7d0d.css",
+    "main.css": "/ubiquitous-waddle/static/css/main.2859fb3f.css",
     "main.js": "/ubiquitous-waddle/static/js/main.c18a4bf8.js",
     "static/media/portfolio.png": "/ubiquitous-waddle/static/media/portfolio.795d2e640c4450dfc8b0.png",
     "static/media/svg.png": "/ubiquitous-waddle/static/media/svg.edd9e4f318428a817466.png",
@@ -15,11 +15,11 @@
     "static/media/linkedin.png": "/ubiquitous-waddle/static/media/linkedin.367e73f523d32c24d9df.png",
     "static/media/fb.png": "/ubiquitous-waddle/static/media/fb.6d50ce637996d64e03e5.png",
     "index.html": "/ubiquitous-waddle/index.html",
-    "main.d8ca7d0d.css.map": "/ubiquitous-waddle/static/css/main.d8ca7d0d.css.map",
+    "main.2859fb3f.css.map": "/ubiquitous-waddle/static/css/main.2859fb3f.css.map",
     "main.c18a4bf8.js.map": "/ubiquitous-waddle/static/js/main.c18a4bf8.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8ca7d0d.css",
+    "static/css/main.2859fb3f.css",
     "static/js/main.c18a4bf8.js"
   ]
 }
